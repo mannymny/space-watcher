@@ -1,0 +1,5 @@
+# NOTE: After pip install, run .\\tools\\fetch_bins.ps1 to download mpv/ffmpeg/yt-dlp binaries.
+yt-dlp==2025.12.8
+playwright==1.57.0
+pyinstaller==6.18.0; platform_system=="Windows"
+pyinstaller-hooks-contrib==2026.0; platform_system=="Windows"
